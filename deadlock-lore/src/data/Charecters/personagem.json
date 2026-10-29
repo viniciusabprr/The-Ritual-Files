@@ -1,0 +1,13 @@
+{
+  "id": "personagem-c",
+  "name": "Personagem C",
+  "alias": "Apelido C",
+  "faction": "Facção 1",
+  "tags": ["Tag 1"],
+  "summary": ["Resumo C1.", "Resumo C2.", "Resumo C3."],
+  "locations": ["local-b"],
+  "relationships": [
+    { "id": "personagem-a", "type": "Aliado", "description": "Relação entre C e A." }
+  ],
+  "timeline": []
+}
